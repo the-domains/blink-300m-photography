@@ -8,23 +8,29 @@ description: >-
   portraits, I will work closely with you to find out exactly how you want to be
   portrayed and produce the best possible results. Plus, will have a good time
   doing it!My pricing is reasonable and I can accommodate your budget***
-dateModified: '2016-07-12T01:37:46.504Z'
-datePublished: '2016-07-12T01:39:31.332Z'
-title: Panorama Views
+dateModified: '2016-07-12T01:49:32.806Z'
+datePublished: '2016-07-12T01:49:33.269Z'
+title: City Views
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/f93c9529-ea5a-4f3d-8c42-9a2028773df7.jpg
-starred: true
 sourcePath: _posts/2016-07-12-panorama-views.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-# Panorama Views
-![This picture was taken from the Empire State Building / 86th floor.](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4c3508547365bef0953ee3dd9e6269d9/croprotate.jpg?cropheight=3137&cropwidth=7172&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Ff93c9529-ea5a-4f3d-8c42-9a2028773df7.jpg&x=0&y=0)
+# City Views
+![This picture was taken from the Empire State Building / 86th floor.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e95dc7a29cb5f1fd0cb0d8a311fbc9dbf603ae0.jpg)
 
 I am a Dallas based photographer who has a passion for photography. I've always had an amazing eye for capturing the moment.If you want fabulous, professional images that make you and yours look your best...  
 Blink 300m Photography is right for you. Whether you need executive head-shots, personality photos, model portfolio images, performance images, or family portraits, I will work closely with you to find out exactly how you want to be portrayed and produce the best possible results. Plus, will have a good time doing it!  
 My pricing is reasonable and I can accommodate your budget\*\*\*
+![The Flatiron District Building](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7fb51ff34d7498608260911955947c7f/croprotate.jpg?cropheight=6000&cropwidth=4001&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F62568215-19cc-4064-ae19-4bac3206a9ce.jpg&x=0&y=0)
+
+The Flatiron District is a neighborhood in the New York City borough of Manhattan, named after the Flatiron Building at 23rd Street, Broadway and Fifth Avenue.[‪\#‎flatironbuilding‬][0][‪\#‎flatirondistict‬][1]this picture was taken from the Empire State building.
+
+[0]: https://www.facebook.com/hashtag/flatironbuilding?source=feed_text&story_id=1227726693912563
+[1]: https://www.facebook.com/hashtag/flatirondistict?source=feed_text&story_id=1227726693912563
