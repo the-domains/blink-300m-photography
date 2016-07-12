@@ -2,14 +2,14 @@
 description: >-
   Here I’m doing a photoshoot with Fashion Mens Blogger Zebran Kabani / To out
   more information on his outfits... please go to www.styldbyz.com 
-dateModified: '2016-07-12T01:49:32.870Z'
-datePublished: '2016-07-12T01:49:33.232Z'
+dateModified: '2016-07-12T01:53:32.022Z'
+datePublished: '2016-07-12T01:53:32.311Z'
 title: 'Fashion / Model Photography '
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/99677ef9-d1d8-40bb-a525-674b751d0b04.jpg
 sourcePath: _posts/2016-07-12-fashion-model-photography.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
