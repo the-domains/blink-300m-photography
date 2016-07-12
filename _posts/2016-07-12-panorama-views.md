@@ -8,14 +8,14 @@ description: >-
   portraits, I will work closely with you to find out exactly how you want to be
   portrayed and produce the best possible results. Plus, will have a good time
   doing it!My pricing is reasonable and I can accommodate your budget***
-dateModified: '2016-07-12T01:58:34.287Z'
-datePublished: '2016-07-12T01:58:34.562Z'
+dateModified: '2016-07-12T01:58:44.075Z'
+datePublished: '2016-07-12T01:58:44.485Z'
 title: City Views
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/f93c9529-ea5a-4f3d-8c42-9a2028773df7.jpg
 sourcePath: _posts/2016-07-12-panorama-views.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
