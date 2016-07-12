@@ -4,7 +4,7 @@
         <description><![CDATA[Blink 300m Photography]]></description>
         <link>https://thegrid.ai/blink-300m-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jul 2016 02:06:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2016 02:15:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/blink-300m-photography/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[City Views]]></title>
@@ -22,10 +22,10 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/278c6e04-f256-434d-976b-f610e0d9145c.jpg">]]></description>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/209d771cba54040672501545c869bfcd/croprotate.jpg?cropheight=3943&cropwidth=5913&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F278c6e04-f256-434d-976b-f610e0d9145c.jpg&x=0&y=0">]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/278c6e04-f256-434d-976b-f610e0d9145c.jpg</link>
             <guid isPermaLink="false">0d523df1-6ca3-4c94-8bdb-9986342bbcfc</guid>
-            <pubDate>Tue, 12 Jul 2016 02:06:41 GMT</pubDate>
+            <pubDate>Tue, 12 Jul 2016 02:15:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
