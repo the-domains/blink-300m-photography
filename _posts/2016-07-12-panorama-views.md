@@ -8,8 +8,8 @@ description: >-
   portraits, I will work closely with you to find out exactly how you want to be
   portrayed and produce the best possible results. Plus, will have a good time
   doing it! My pricing is reasonable and I can accommodate your budget***
-dateModified: '2016-07-12T01:59:43.236Z'
-datePublished: '2016-07-12T02:00:28.164Z'
+dateModified: '2016-07-13T18:54:32.839Z'
+datePublished: '2016-07-13T18:55:35.710Z'
 title: City Views
 author: []
 isBasedOnUrl: >-
