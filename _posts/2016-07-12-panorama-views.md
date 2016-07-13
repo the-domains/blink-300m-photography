@@ -2,20 +2,20 @@
 description: >-
   I am a Dallas based photographer who has a passion for photography. I've
   always had an amazing eye for capturing the moment.If you want fabulous,
-  professional images that make you and yours look your best... Blink 300m
+  professional images that make you and yours look your best...Blink 300m
   Photography is right for you. Whether you need executive head-shots,
   personality photos, model portfolio images, performance images, or family
   portraits, I will work closely with you to find out exactly how you want to be
   portrayed and produce the best possible results. Plus, will have a good time
-  doing it! My pricing is reasonable and I can accommodate your budget***
-dateModified: '2016-07-13T19:02:22.803Z'
-datePublished: '2016-07-13T19:02:34.961Z'
+  doing it!My pricing is reasonable and I can accommodate your budget***
+dateModified: '2016-07-13T19:04:26.743Z'
+datePublished: '2016-07-13T19:04:27.737Z'
 title: City Views
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/f93c9529-ea5a-4f3d-8c42-9a2028773df7.jpg
 sourcePath: _posts/2016-07-12-panorama-views.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
